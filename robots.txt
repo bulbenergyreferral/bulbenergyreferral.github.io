@@ -1,0 +1,5 @@
+Allow
+Crawl-delay: 
+Sitemap: https://www.bulbenergyreferral.co.uk/sitemap.xml
+User-agent: *
+Allow :/
